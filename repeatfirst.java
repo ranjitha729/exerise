@@ -30,8 +30,11 @@ public class str {
 				
 			}
 		}
+		if(min>=0){
 		System.out.println(a[min]);
-        
+		}
+		else{
+			System.out.println("unique");
 		}
 		}
 		
